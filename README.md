@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Gavin 👋
 
-<!--
-**GavinDPinto/GavinDPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with experience in web and app development and a strong background in computer science.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- An BLE-supported Android app for ![Electrium Mobility](https://electriummobility.com/)
+- My personal website: coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Kotlin & Android Studio
+- Next.js, React, Typescript & TailwindCSS
+
+### 👯 I’m looking to collaborate on
+- Open source projects
+- Innovative tech solutions
+
+### 📫 How to reach me
+- ![Email](mailto:gavinpinto620@gmail.com)
+- ![LinkedIn](https://www.linkedin.com/in/gavin-pinto-6b322b243/)
+
+### ⚡ Hot take
+- Racket is fun!
