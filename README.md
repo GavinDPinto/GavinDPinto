@@ -1,4 +1,4 @@
-## Hi there, I'm Gavin 👋
+## Hi there, I'm Gavin 👋🌺
 
 I'm a passionate software developer with experience in web and app development and a strong background in computer science.
 
